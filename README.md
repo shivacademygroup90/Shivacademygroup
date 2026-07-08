@@ -1,2 +1,1 @@
-# Shivacademygroup
-Official website of shivacademygroup
+# Shiv Academy Group Website
